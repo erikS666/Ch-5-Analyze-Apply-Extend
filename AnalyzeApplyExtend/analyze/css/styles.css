@@ -85,7 +85,7 @@ a {text-decoration-line: underline;
     display: block;
     color: #ebf7e3;}
 
-    .corner {
+    corner {
         border-radius: 12px;
     }
 
