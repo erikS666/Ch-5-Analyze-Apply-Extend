@@ -21,6 +21,11 @@ img {
     display: block;
 }
 
+*/syle rules for moblie viewpot*/
+
+
+
+
 /* Style rules for header content */
 header h1 {
     text-align: center;
@@ -38,6 +43,7 @@ nav {
 
 nav ul {
     text-align: center;
+    list-style-type: none;
 }
 
 nav li {
