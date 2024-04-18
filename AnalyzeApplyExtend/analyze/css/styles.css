@@ -21,7 +21,13 @@ img {
     display: block;
 }
 
-*/syle rules for moblie viewpot*/
+/*syle rules for moblie viewpot*/
+
+/*rule for hiding tablet-desktop class*/
+
+.tablet-desktop {
+visibility: hidden;
+}
 
 
 
