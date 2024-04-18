@@ -83,7 +83,11 @@ main p {
 a {text-decoration-line: underline;
     font-size: 1.25em;
     display: block;
-color: #ebf7e3;}
+    color: #ebf7e3;}
+
+    .corner {
+        border-radius: 12px;
+    }
 
 /* Style rules for footer content */
 footer {
