@@ -76,6 +76,14 @@ main {
 main p {
     font-size: 1.25em;
 }
+.btn {
+    background-color: #375f1b;
+    
+}
+a {text-decoration-line: underline;
+    font-size: 1.25em;
+    display: block;
+color: #ebf7e3;}
 
 /* Style rules for footer content */
 footer {
