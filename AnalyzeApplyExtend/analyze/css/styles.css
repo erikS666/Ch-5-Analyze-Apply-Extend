@@ -23,6 +23,9 @@ img {
 
 /*syle rules for moblie viewpot*/
 
+
+
+
 /*rule for hiding tablet-desktop class*/
 
 .tablet-desktop {
@@ -90,6 +93,8 @@ a {text-decoration-line: underline;
     }
 
 /* Style rules for footer content */
+
+
 footer {
     text-align: center;
     font-size: 0.85em;
